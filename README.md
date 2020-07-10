@@ -1,5 +1,5 @@
 # R Magento
-Accessing Magento 2 date from R
+Accessing Magento 2 store data from R
 via Magento 2 REST API 
 
 * Rmagento2API-functions.R is a library of functions - wrappers over Magento 2 REST API
