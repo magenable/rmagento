@@ -1,2 +1,5 @@
-# rmagento
-Accessing Magento from R
+# R Magento
+Accessing Magento 2 from R
+Currently REST API supported
+
+
